@@ -102,7 +102,7 @@
     },
     {
       "apiName": "Gotopup",
-      "status": true,
+      "status": false,
       "documentationUrl": "https://docs.gotopup.id/",
       "developer": {
         "name": "Gotopup",
@@ -124,7 +124,7 @@
     },
     {
       "apiName": "iPaymu",
-      "status": false,
+      "status": true,
       "documentationUrl": "https://ipaymu.com/dokumentasi-api",
       "developer": {
         "name": "iPaymu",

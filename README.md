@@ -225,7 +225,7 @@ Kumpulan API tentang data dan informasi di Indonesia
 | ---------- | -------------- | ----------------------------------------------------------- | ------ | --------------------------------- | ----------- |
 | Deezer     | Deezer Dev     | [Link](https://developers.deezer.com/api)                   | ✅     | Katalog Deezer.                   | OAUTH       |
 | Lirik lagu | azharimm       | [Link](https://github.com/azharimm/song-lyrics-api)         | ✅     | Rest Api lirik lagu.              | `false`     |
-| MusixMatch | MusixMatch Dev | [Link](https://developer.musixmatch.com)                    | ✅     | Mencari Informasi dan Lirik lagu. | API KEY     |
+| MusixMatch | MusixMatch Dev | [Link](https://developer.musixmatch.com)                    | ❎     | Mencari Informasi dan Lirik lagu. | API KEY     |
 | SoundCloud | SoundCloud Dev | [Link](https://developers.soundcloud.com)                   | ✅     | upload dan share music.           | API KEY     |
 | Spotify    | Spotify Dev    | [Link](https://developer.spotify.com/documentation/web-api) | ✅     | Spotify Catalog.                  | OAUTH       |
 

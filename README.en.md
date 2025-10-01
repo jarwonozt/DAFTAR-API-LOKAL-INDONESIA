@@ -231,7 +231,7 @@ This file is translation from Original (Bahasa Indonesia).
 | ---------- | -------------- | ----------------------------------------------------------- | ------ | ------------------------------------------- | -------------- |
 | Deezer     | Deezer Dev     | [Link](https://developers.deezer.com/api)                   | ✅     | Deezer Catalog.                             | OAUTH          |
 | Lyrics API | azharimm       | [Link](https://github.com/azharimm/song-lyrics-api)         | ✅     | Rest API for song lyrics.                   | `false`        |
-| MusixMatch | MusixMatch Dev | [Link](https://developer.musixmatch.com)                    | ✅     | Search for Information and Lyrics of songs. | API KEY        |
+| MusixMatch | MusixMatch Dev | [Link](https://developer.musixmatch.com)                    | ❎     | Search for Information and Lyrics of songs. | API KEY        |
 | SoundCloud | SoundCloud Dev | [Link](https://developers.soundcloud.com)                   | ✅     | Upload and Share Music.                     | API KEY        |
 | Spotify    | Spotify Dev    | [Link](https://developer.spotify.com/documentation/web-api) | ✅     | Spotify Catalog.                            | OAUTH          |
 

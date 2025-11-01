@@ -58,7 +58,7 @@
     },
     {
       "apiName": "Raja Ongkir",
-      "status": true,
+      "status": false,
       "documentationUrl": "http://rajaongkir.com/dokumentasi",
       "developer": {
         "name": "Rajaongkir",
